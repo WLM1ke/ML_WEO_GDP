@@ -104,3 +104,6 @@ ENV/
 
 # Coverage.py
 .coverage
+
+# catboost
+catboost_info
